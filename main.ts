@@ -3,10 +3,10 @@
 // must write the same bytes, so the program does a plain file copy and
 // nothing else: no network, no clock, no randomness.
 //
-// Round 6 refresh (22 Nov 2026): the front page now leads its picture
-// with the Poland story — Polish F-16s scrambling at dawn after Russian
-// missiles crossed into Poland — and the Poland panel heads the grid;
-// the Kyiv lead story stays the lead in words.
+// Round 7 refresh (22 Nov 2026): the front page now leads its picture
+// with the Justice story — the Peace Palace in The Hague at dusk after
+// Myanmar rejected the ICJ genocide ruling — and the Justice panel heads
+// the grid; the Kyiv lead story stays the lead in words.
 //
 // Before copying, the PNG is validated so a corrupt or wrong-sized image
 // fails loudly instead of shipping silently: the 8-byte PNG signature must
