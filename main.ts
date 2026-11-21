@@ -3,6 +3,11 @@
 // must write the same bytes, so the program does a plain file copy and
 // nothing else: no network, no clock, no randomness.
 //
+// Round 6 refresh (22 Nov 2026): the front page now leads its picture
+// with the Poland story — Polish F-16s scrambling at dawn after Russian
+// missiles crossed into Poland — and the Poland panel heads the grid;
+// the Kyiv lead story stays the lead in words.
+//
 // Before copying, the PNG is validated so a corrupt or wrong-sized image
 // fails loudly instead of shipping silently: the 8-byte PNG signature must
 // match, and the IHDR chunk must declare exactly 1024x1024. After writing,
