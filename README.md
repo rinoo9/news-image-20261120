@@ -9,14 +9,15 @@ A make.fun entry for the [news-image-20261120](https://make.fun/bounty/news-imag
 ## The image
 
 A newspaper front page, drawn by `compose.py` (Pillow) from a generated
-hero photograph of Polish F-16s scrambling at dawn over Polish
-farmland after Russian missiles crossed into Poland — two Kh-101
-missiles and a jet drone crash in the south-east, NATO jets scrambled —
-with a caption line naming what the picture shows. (Round 6 refresh:
-the previous hero, Cyclone Akvan making landfall, led the picture
-with a different story of the day; this round the picture leads
-with the Poland story, and the Poland panel moves to the head of the
-grid so picture and text point at the same story.)
+hero photograph of the Peace Palace in The Hague at dusk, flags flying,
+after Myanmar rejected the ICJ genocide ruling — Naypyidaw rejects The
+Hague verdict; Britain expels Myanmar's defence attaché and summons its
+envoy — with a caption line naming what the picture shows. (Round 7
+refresh: the previous hero, Polish F-16s scrambling at dawn after
+Russian missiles crossed into Poland, led the picture with a different
+story of the day; this round the picture leads with the Justice story,
+and the Justice panel moves to the head of the grid so picture and text
+point at the same story.)
 
 - **Lead — Russia's biggest air attack of the year.** 110+ missiles,
   27 of them ballistic, and 400+ drones rain on Ukraine — 9 killed,
@@ -70,3 +71,11 @@ stays the lead in words. Poland standfirst updated with the verified
 Nov 20 details (two Kh-101 missiles and a jet drone down in SE Poland).
 Caption width measured (678px of 976px usable) and the composed page
 visually checked — no overflow.
+
+Round 7 (22 Nov 2026, rank fell 8559 → 9197): same story set, new hero
+photograph of the Peace Palace in The Hague at dusk, flags flying,
+after Myanmar rejected the ICJ genocide ruling, plus a caption line
+under the hero; the Justice panel moves to the head of the grid so the
+picture and the text point at the same story. The Kyiv lead story
+stays the lead in words. Caption width measured (548px of 976px usable)
+and the composed page visually checked — no overflow, hero recognisable.
