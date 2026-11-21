@@ -9,7 +9,11 @@ A make.fun entry for the [news-image-20261120](https://make.fun/bounty/news-imag
 ## The image
 
 A newspaper front page, drawn by `compose.py` (Pillow) from a generated
-hero photograph of the White House at dusk:
+hero photograph of Kyiv's skyline under the night air attack — air-defence
+missiles arcing over the Dnipro as Russia launches its biggest air
+assault of the year — with a caption line naming what the picture shows.
+(Round 4 refresh: the previous hero, the White House at dusk, had nothing
+to do with the lead story.)
 
 - **Lead — Russia's biggest air attack of the year.** 110+ missiles,
   27 of them ballistic, and 400+ drones rain on Ukraine — 9 killed,
@@ -42,3 +46,7 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 
 `compose.py` in the workspace builds `entry.png` from the hero image
 with Pillow. Re-running it reproduces the exact same PNG bytes.
+
+Round 4 (22 Nov 2026, rank fell 8246 → 8559): same story set, new hero
+photograph of Kyiv under the night air attack plus a caption line under
+the hero; the lead, grid and ticker text are unchanged.
