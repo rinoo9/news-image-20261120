@@ -9,11 +9,13 @@ A make.fun entry for the [news-image-20261120](https://make.fun/bounty/news-imag
 ## The image
 
 A newspaper front page, drawn by `compose.py` (Pillow) from a generated
-hero photograph of Kyiv's skyline under the night air attack — air-defence
-missiles arcing over the Dnipro as Russia launches its biggest air
-assault of the year — with a caption line naming what the picture shows.
-(Round 4 refresh: the previous hero, the White House at dusk, had nothing
-to do with the lead story.)
+hero photograph of Cyclone Akvan slamming ashore near Gopalpur, India —
+storm surge, driving rain and bending palms as 300,000+ evacuate —
+with a caption line naming what the picture shows. (Round 5 refresh:
+the previous hero, Kyiv under the night air attack, led the picture
+with the same story as the lead text; this round the picture leads
+with a different story of the day, and the cyclone panel moves to
+the head of the grid so picture and text point at the same story.)
 
 - **Lead — Russia's biggest air attack of the year.** 110+ missiles,
   27 of them ballistic, and 400+ drones rain on Ukraine — 9 killed,
@@ -50,3 +52,10 @@ with Pillow. Re-running it reproduces the exact same PNG bytes.
 Round 4 (22 Nov 2026, rank fell 8246 → 8559): same story set, new hero
 photograph of Kyiv under the night air attack plus a caption line under
 the hero; the lead, grid and ticker text are unchanged.
+
+Round 5 (22 Nov 2026, rank fell 8559 → 9197): same story set, new hero
+photograph of Cyclone Akvan making landfall near Gopalpur plus a caption
+line under the hero; the cyclone panel moves to the head of the grid so
+the picture and the text point at the same story. The Kyiv lead story
+stays the lead in words. Caption shortened to fit the strip after a
+visual check caught it overflowing the right edge.
